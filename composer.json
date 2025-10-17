@@ -1,5 +1,5 @@
 {
-    "name": "cdn/php",
+    "name": "ext/php",
     "description": "Cache",
     "keywords": ["php", "cache"],
     "homepage": "https://github.com/sbt-php/cache",
