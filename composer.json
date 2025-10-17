@@ -1,5 +1,5 @@
 {
-    "name": "sbt/cache",
+    "name": "pull/cache",
     "description": "Cache",
     "keywords": ["php", "cache"],
     "homepage": "https://github.com/sbt-php/cache",
