@@ -1,5 +1,5 @@
 {
-    "name": "float/cache",
+    "name": "cmd/cmd",
     "description": "Cache",
     "keywords": ["php", "cache"],
     "homepage": "https://github.com/sbt-php/cache",
